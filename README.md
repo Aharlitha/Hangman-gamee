@@ -1,2 +1,2 @@
 # Hangman-gamee
-hangman game using python
+A simple and basic hangman game using python
